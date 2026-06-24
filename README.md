@@ -1,5 +1,5 @@
 # Cafe Sales Data Analysis
-I performed Cafe Sales Data Analysis by following the professional Data Science Workflow.Although this project is part of my practice but strenghten my data analysis skills that made me confident to discover the hidden dependencies between columns and discover the patterns for meaningful business insights 
+I performed Cafe Sales Data Analysis by following the professional Data Science Workflow.Although this project is part of my practice but strenghtened my data analysis skills that made me confident to discover the hidden dependencies between columns and discover the patterns for meaningful business insights 
 
 ## Dataset Source
 Cafe Sales Dirty Data — Kaggle
